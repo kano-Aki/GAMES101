@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/RayTracing.dir/src/main.cpp.o CMakeFiles/RayTracing.dir/src/Vector.cpp.o CMakeFiles/RayTracing.dir/src/Scene.cpp.o CMakeFiles/RayTracing.dir/src/BVH.cpp.o CMakeFiles/RayTracing.dir/src/Renderer.cpp.o  -o RayTracing 
